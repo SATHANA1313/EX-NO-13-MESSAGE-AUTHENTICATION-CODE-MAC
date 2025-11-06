@@ -88,7 +88,8 @@ int main() {
 
 ## Output:
 
-![WhatsApp Image 2025-11-06 at 08 44 13_8194c0ff](https://github.com/user-attachments/assets/13527cda-d298-4a24-ad96-18ea55f98f74)
+![WhatsApp Image 2025-11-06 at 08 49 49_958e80fe](https://github.com/user-attachments/assets/feed7f91-552f-4aef-9ead-5af3ed91676c)
+
 
 
 ## Result:
