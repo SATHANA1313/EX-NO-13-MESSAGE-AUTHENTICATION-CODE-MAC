@@ -86,7 +86,8 @@ int main() {
 
 ## Output:
 
-<img width="1017" height="456" alt="image" src="https://github.com/user-attachments/assets/2794112b-f88f-4198-af8a-de31ac7f7dff" />
+![WhatsApp Image 2025-11-06 at 08 44 13_8194c0ff](https://github.com/user-attachments/assets/13527cda-d298-4a24-ad96-18ea55f98f74)
+
 
 ## Result:
 The program is executed successfully.
